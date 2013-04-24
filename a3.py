@@ -207,7 +207,7 @@ def update_score(player_info, word):
 
     return sum(info[1:3])
 
-
+# Not working yet
 
 def num_words_on_board(board, words):
     '''(list of list of str, list of str) -> int
@@ -224,6 +224,7 @@ def num_words_on_board(board, words):
 
         return(i)
 
+#Not finished
 
 def read_words(words_file):
     ''' (file open for reading) -> list of str
@@ -236,7 +237,8 @@ def read_words(words_file):
     '''
     file = open(words_file, 'r')
     
-
+#Not finished
+    
 def read_board(board_file):
     ''' (file open for reading) -> list of list of str
 

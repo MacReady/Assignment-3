@@ -1,6 +1,8 @@
 Assignment-3
 ============
 
+a3_driver.py code was provided by the instructors.
+
 A3 Problem Domain: Word Search Game
 
 For A3, you will implement a word search game. The game involves an rectangular board of uppercase letters that is read from a file. For example, here are the file contents representing a (tiny) 2 row by 4 column board:
